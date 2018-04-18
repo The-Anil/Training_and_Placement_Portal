@@ -4,3 +4,5 @@ Web Service for Colleges to easily manage the company looking for interns/employ
 Uses SQL database for storing students details. 
 Managed by admin for checking fraudulent of companies and student details. 
 Uses mailing system for security of registration data.
+
+Link : http://iiitk-placement.epizy.com/T/home.php?i=1
